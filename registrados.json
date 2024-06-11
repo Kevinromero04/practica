@@ -1,0 +1,10 @@
+{
+    "registrados": {
+        "123": {
+            "Nombre": "juan",
+            "Apellido": "camilo",
+            "Numero": "23445",
+            "Estado": "denegado"
+        }
+    }
+}
